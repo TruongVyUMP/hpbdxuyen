@@ -168,12 +168,7 @@ a {
 
 body {
 background-image: url(https://4.bp.blogspot.com/-4Ft_r0NvhvI/W3T8xLfFW_I/AAAAAAAAN5E/2YieULXjxFEap1vAxT-V95swb-JT-w-8ACLcBGAs/s1600/Top%2B20%2BBest%2B4K%2BUltra%2BHD%2BWallpapers.%2BDownload%2B%2BAxeeTech.jpg);
-  background-image: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 100, color-stop(0%, #374566), color-stop(100%, #010203));
-  background-image: -webkit-radial-gradient(#374566, #010203);
-  background-image: -moz-radial-gradient(#374566, #010203);
-  background-image: -o-radial-gradient(#374566, #010203);
-  background-image: radial-gradient(#374566, #010203);
-}
+ }
 
 /* Balloon */
  .dialog-birthday_message {
